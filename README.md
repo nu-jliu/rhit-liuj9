@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Allen Liu
-- 👀 I’m interested in Robotics
+- 👀 I’m interested in `Robotics`
 - 🌱 I’m currently learning kernel programming
-- 💞️ I’m looking to collaborate on Controling Microcontroller
+- 💞️ I’m looking to collaborate on `Controling Microcontroller`
 - 📫 How to reach me : email `liuj9@rose-hulman.edu`
 
 <!---
