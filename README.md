@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Allen Liu
 - 👀 I’m interested in `Robotics`
-- 🌱 I’m currently learning `C#`
+- 🌱 I’m currently learning `C#, C++`
 - 💞️ I’m looking to collaborate on `Embedded Systems`
 - 📫 How to reach me : email `liuj9@rose-hulman.edu`
 
